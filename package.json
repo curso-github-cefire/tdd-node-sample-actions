@@ -5,7 +5,7 @@
     
 	"type": "module",
     "scripts": {
-        "test3": "mocha test/test3.mjs"
+        "test": "mocha test/test3.mjs"
     },
     "author": "Mónica Ruiz Rubio",
     "license": "MIT",
